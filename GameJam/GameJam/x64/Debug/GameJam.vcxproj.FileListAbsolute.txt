@@ -1,0 +1,5 @@
+C:\Users\Personal\source\repos\GameJam\GameJam\x64\Debug\GameJam.vcxproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\GameJam\GameJam\x64\Debug\GameJam.MyForm.resources
+C:\Users\Personal\source\repos\GameJam\GameJam\x64\Debug\GameJam.MyForm1.resources
+C:\Users\Personal\source\repos\GameJam\GameJam\x64\Debug\GameJam.vcxproj.GenerateResource.cache
+C:\Users\Personal\source\repos\GameJam\GameJam\x64\Debug\GameJam.MyForm2.resources
